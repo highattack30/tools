@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Item_tool_0\Item_tool_0\obj\Debug\Item_tool_0.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Item_tool_0\Item_tool_0\obj\Debug\Item_tool_0.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Item_tool_0\Item_tool_0\obj\Debug\Item_tool_0.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Item_tool_0\Item_tool_0\obj\Debug\Item_tool_0.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Item_tool_0\Item_tool_0\bin\Debug\Item Tool by Narcis96.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Item_tool_0\Item_tool_0\bin\Debug\Item Tool by Narcis96.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Item_tool_0\Item_tool_0\bin\Debug\Item Tool by Narcis96.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Item_tool_0\Item_tool_0\obj\Debug\Item Tool by Narcis96.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Item_tool_0\Item_tool_0\obj\Debug\Item Tool by Narcis96.pdb

@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\passivities_tool_0\passivities_tool_0\bin\Release\Passivity Tool.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\passivities_tool_0\passivities_tool_0\bin\Release\Passivity Tool.exe
+c:\users\administrator\documents\visual studio 2015\Projects\passivities_tool_0\passivities_tool_0\bin\Release\Passivity Tool.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\passivities_tool_0\passivities_tool_0\obj\Release\passivities_tool_0.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\passivities_tool_0\passivities_tool_0\obj\Release\passivities_tool_0.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\passivities_tool_0\passivities_tool_0\obj\Release\passivities_tool_0.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\passivities_tool_0\passivities_tool_0\obj\Release\passivities_tool_0.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\passivities_tool_0\passivities_tool_0\obj\Release\Passivity Tool.exe
+c:\users\administrator\documents\visual studio 2015\Projects\passivities_tool_0\passivities_tool_0\obj\Release\Passivity Tool.pdb

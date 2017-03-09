@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\enchant_data_tool_0\enchant_data_tool_0\bin\Debug\Enchant Data Tool v1.0.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\enchant_data_tool_0\enchant_data_tool_0\bin\Debug\Enchant Data Tool v1.0.exe
+c:\users\administrator\documents\visual studio 2015\Projects\enchant_data_tool_0\enchant_data_tool_0\bin\Debug\Enchant Data Tool v1.0.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\enchant_data_tool_0\enchant_data_tool_0\obj\Debug\enchant_data_tool_0.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\enchant_data_tool_0\enchant_data_tool_0\obj\Debug\enchant_data_tool_0.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\enchant_data_tool_0\enchant_data_tool_0\obj\Debug\enchant_data_tool_0.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\enchant_data_tool_0\enchant_data_tool_0\obj\Debug\enchant_data_tool_0.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\enchant_data_tool_0\enchant_data_tool_0\obj\Debug\Enchant Data Tool v1.0.exe
+c:\users\administrator\documents\visual studio 2015\Projects\enchant_data_tool_0\enchant_data_tool_0\obj\Debug\Enchant Data Tool v1.0.pdb

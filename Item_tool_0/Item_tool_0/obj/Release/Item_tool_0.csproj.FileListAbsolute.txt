@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Item_tool_0\Item_tool_0\obj\Release\Item_tool_0.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Item_tool_0\Item_tool_0\obj\Release\Item_tool_0.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Item_tool_0\Item_tool_0\obj\Release\Item_tool_0.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\Item_tool_0\Item_tool_0\obj\Release\Item_tool_0.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Item_tool_0\Item_tool_0\bin\Release\Item Tool v1.0.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Item_tool_0\Item_tool_0\bin\Release\Item Tool v1.0.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Item_tool_0\Item_tool_0\bin\Release\Item Tool v1.0.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Item_tool_0\Item_tool_0\obj\Release\Item Tool v1.0.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Item_tool_0\Item_tool_0\obj\Release\Item Tool v1.0.pdb

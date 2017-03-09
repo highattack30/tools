@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2015\Projects\equipment_data_tool__0\equipment_data_tool__0\bin\Release\Equipment Data Tool v1.0.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\equipment_data_tool__0\equipment_data_tool__0\bin\Release\Equipment Data Tool v1.0.exe
+c:\users\administrator\documents\visual studio 2015\Projects\equipment_data_tool__0\equipment_data_tool__0\bin\Release\Equipment Data Tool v1.0.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\equipment_data_tool__0\equipment_data_tool__0\obj\Release\equipment_data_tool__0.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\equipment_data_tool__0\equipment_data_tool__0\obj\Release\equipment_data_tool__0.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\equipment_data_tool__0\equipment_data_tool__0\obj\Release\equipment_data_tool__0.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\equipment_data_tool__0\equipment_data_tool__0\obj\Release\Equipment Data Tool v1.0.exe
+c:\users\administrator\documents\visual studio 2015\Projects\equipment_data_tool__0\equipment_data_tool__0\obj\Release\Equipment Data Tool v1.0.pdb
